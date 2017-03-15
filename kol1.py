@@ -21,3 +21,20 @@
 #
 #Delete these comments before commit!
 #Good luck.
+
+
+class matrix(object):
+
+	
+
+	def sum_matrice(self,m1,m2):
+		
+		for i in range(0 , len(m1))
+			for j in range (0 , len(m1))
+				m3[i][j] = m1[i][j] + m2[i][j]
+		
+
+	def product_matrice(self,m1,m2):
+		for i in range(0 , len(m1))
+			for j in range (0 , len(m1))
+				m3[i][j] = (m1[i][j] * m2[i][j]) + (m1[i][j+1] * m2[i+1][j])
