@@ -20,7 +20,7 @@
 #The whole repository MUST be a fork from https://github.com/mwmajew/2017sum_era1_kol1
 #
 #Delete these comments before commit!
-#Good luck.
+#Good luck boy.
 
 
 class matrix(object):

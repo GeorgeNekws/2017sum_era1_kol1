@@ -6,7 +6,7 @@ import matrix_module as mm
 matrix_1 = []
 matrix_2 = []
 
-print 'IF you want to make an operation with a scalar press "q" after the insertion of the scalar'
+print 'if you want to make an operation with a scalar press "q" after the insertion of the scalar'
 
 print 'Give the elements of the first 2x2 matrix'
 
